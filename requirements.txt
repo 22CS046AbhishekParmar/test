@@ -1,6 +1,5 @@
 
 gunicorn
-fitz
 Flask
 nltk
 numpy
