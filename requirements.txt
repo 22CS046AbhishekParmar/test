@@ -1,17 +1,10 @@
-﻿annotated-types==0.6.0
-pymupdf==1.24.4
+
 gunicorn
-
-fitz==0.0.1.dev2
-Flask==3.0.3
-
-nltk==3.8.1
-numpy==1.26.4
-
-PyMuPDF==1.24.4
-
-
-spacy==3.7.4
-
-Werkzeug==3.0.3
+fitz
+Flask
+nltk
+numpy
+PyMuPDF
+spacy
+Werkzeug
 
