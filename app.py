@@ -8,6 +8,9 @@ import requests
 
 app = Flask(__name__)
 
+
+spacy.cli.download("en_core_web_lg")
+
 # Load the pretrained model
 nlp = spacy.load("en_core_web_lg")
 
